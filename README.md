@@ -1,5 +1,5 @@
-# ask-question-image-web-app-streamlit-langchain
-
+#  Ask Question Image Web App using Streamlit and Landchain
+![header](https://softwareplanetgroup.co.uk/wp-content/uploads/2021/06/25-Questions-to-Ask-Web-Developers-1200x630-1-1024x538.png)
 This is a Streamlit application that allows users to ask questions about an uploaded image and receive responses from a conversational AI agent. The agent uses the OpenAI GPT-3.5 Turbo model to generate answers based on the provided image and user input.
 
 ## Installation
@@ -45,9 +45,13 @@ The application utilizes the following custom tools:
 - **ObjectDetectionTool**: Performs object detection on the uploaded image and identifies the objects present.
 
 ## References
-1. This project uses the OpenAI GPT-3.5 Turbo model. Visit [OpenAI](https://openai.com/) for more information.
-2. The Streamlit library is used for building the interactive user interface. Visit the [Streamlit documentation](https://docs.streamlit.io/) for more information.
-3. The LangChain library is used for managing the conversational AI agent and tools. Visit the [LangChain GitHub repository](https://github.com/hwchase17/langchain) for more information.
-4. The Transformers library is used to inference the AI features. Visit [this](https://huggingface.co/Salesforce/blip-image-captioning-large) and [this](https://huggingface.co/facebook/detr-resnet-50) pages for a more comprehensive description of the models used.
-5. Chat with an image | LangChain custom tools tutorial | Python Streamlit | Computer vision
+1. This project uses the OpenAI GPT-3.5 Turbo model.
+        - Visit [OpenAI](https://openai.com/) for more information.
+3. The Streamlit library is used for building the interactive user interface.
+        - Visit the [Streamlit documentation](https://docs.streamlit.io/) for more information.
+5. The LangChain library is used for managing the conversational AI agent and tools.
+        - Visit the [LangChain GitHub repository](https://github.com/hwchase17/langchain) for more information.
+7. The Transformers library is used to inference the AI features.
+        - Visit [this](https://huggingface.co/Salesforce/blip-image-captioning-large) and [this](https://huggingface.co/facebook/detr-resnet-50) pages for a more comprehensive description of the models used.
+8. Chat with an image | LangChain custom tools tutorial | Python Streamlit | Computer vision
         - Link: https://www.youtube.com/watch?v=71EOM5__vkI
