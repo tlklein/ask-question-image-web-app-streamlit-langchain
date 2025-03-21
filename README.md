@@ -1,6 +1,11 @@
-#  Ask Question Image Web App using Streamlit and Landchain
-![header](https://softwareplanetgroup.co.uk/wp-content/uploads/2021/06/25-Questions-to-Ask-Web-Developers-1200x630-1-1024x538.png)
-This is a Streamlit application that allows users to ask questions about an uploaded image and receive responses from a conversational AI agent. The agent uses the OpenAI GPT-3.5 Turbo model to generate answers based on the provided image and user input.
+<p align="center">
+    <img src="https://softwareplanetgroup.co.uk/wp-content/uploads/2021/06/25-Questions-to-Ask-Web-Developers-1200x630-1-1024x538.png" alt="Header">
+</p>
+
+<h1 align="center"> Ask Question Image Web App using Streamlit and Landchain </h1>
+
+<p align="center">This is a Streamlit application that allows users to ask questions about an uploaded image and receive responses from a conversational AI agent. The agent uses the OpenAI GPT-3.5 Turbo model to generate answers based on the provided image and user input.</p> 
+
 
 ## Installation
 
